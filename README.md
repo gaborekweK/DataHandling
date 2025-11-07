@@ -1,4 +1,4 @@
-# # DataHandling - Rheometer Data Analysis Project
+# DataHandling - Rheometer Data Analysis 
 
 ## Overview
 This project provides comprehensive data analysis and visualization tools for rheometer measurements, focusing on Z-Height vs Torque relationships across multiple trials and measurement cells.
